@@ -28,4 +28,4 @@ Usage:
 4.	An Excel file is created in the working directory, named as {series_id}_data.xlsx.
 
 This tool serves as an interface to fetch and analyze economic data from FRED. Economists, data scientists, researchers, and students could use it to get insights into various economic parameters.
-![image](https://github.com/mourtashi/Federal-Reserve-Market-Analysis-/assets/109982496/007746ee-d715-4c0c-8ae3-98e5f030d486)
+
